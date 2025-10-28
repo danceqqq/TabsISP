@@ -1,5 +1,3 @@
-# TabsISP
-
 # 📋 Advanced TAB Menu - Enhanced Player Passport System
 
 > **Версия 1.1.0** - Полнофункциональная система паспортов игроков для Minecraft 1.20.1 (Forge)
